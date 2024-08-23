@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Build within a hour ....just to recall the concepts of hooks and props
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 Build within a hour ....just to recall the concepts of hooks and props
