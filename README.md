@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+Build within a hour ....just to recall the concepts of hooks and props
 ## Available Scripts
 
 In the project directory, you can run:
